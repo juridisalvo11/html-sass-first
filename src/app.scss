@@ -1,0 +1,17 @@
+$colore_titoli: blue;
+
+body {
+  text-align: center;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+h2 {
+  color: $colore_titoli;
+}
+
+h3 {
+  color: $colore_titoli;
+}
